@@ -36,7 +36,7 @@ let identifier = advlib.reelyactive.extractIdentifier(packet);
 
 console.log(identifier);
 // {
-//     identifier: "1234567",
+//     identifier: "001bc50941234567",
 //     identifierType: 1
 // }
 ```
